@@ -22,3 +22,11 @@ Main focus of the mod is to add an extra flavor to the game such as dialog for e
   When player "plays around" too much, there is a chances that pregnancy game over mechanic will trigger.
 
 For further information about the mod, please refer to the included readme.txt or https://f95zone.to/threads/alien-quest-eve-v1-01-grimhelm.6016/post-9872848
+
+For choosing which file to download
+- Kmod_VerPregnancy1ControllerKingJulien -> This is the KMod with pregnancy game over + the controller fix from KingJulien
+- KMod_Normal_Ver_Horny_EVE_EditionAnother -> This is the basic KMod + Horny EVE addon
+- KMod_Ver1_Var1_FixedControllerKingJulien -> This is the basic KMod + the controller fix from KingJulien
+- KMod_Ver_Pregnancy_Horny_EVE_editionAnother -> This is the KMod with pregnancy game over + Horny EVE addon + the controller fix from KingJulien
+- Updated_KMod_Normal_Ver_Horny_EVE_EditionModified -> This is the basic KMod + modified Horny EVE addon + the controller fix from KingJulien
+- Updated_KMod_Ver_Pregnancy_Horny_EVE_editionModified -> This is the KMod with pregnancy game over + modified Horny EVE addon + the controller fix from KingJulien

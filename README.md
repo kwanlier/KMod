@@ -8,7 +8,7 @@ This mod is created with the collarboration between people who love Alien Quest:
 - honokan​
 - Trigard​
 
-Main focus of the mod is to add an extra flavor to the game such as dialog for each situation, extra art, and new game mechanics (difficult mode, pregnancy).
+Main focus of the mod is to add an extra flavor to the game such as dialog for each situation, extra art, and new game mechanics (difficult mode).
 - Dialog
   A dialog will appear by either appearing on its own (When the cloth break, when player press undress, during H scene, game over) or through the pressing of button ("Q" or D-Pad up).
 - Extra art
@@ -18,8 +18,7 @@ Main focus of the mod is to add an extra flavor to the game such as dialog for e
   = Difficulty mode
   The difficulty mode include a debuff mechanic, which will happen in a certain situation. The debuff includes in KMod are Temporary lower movement speed, Temporary lower ATK, Temporary lower max MP.
   The difficult mode can be toggled on and off during the gameplay
-  = Pregnancy game over
-  When player "plays around" too much, there is a chances that pregnancy game over mechanic will trigger.
+  
 
 For further information about the mod, please refer to the included readme.txt or https://f95zone.to/threads/alien-quest-eve-v1-01-grimhelm.6016/post-9872848
 
